@@ -304,8 +304,8 @@ svg path {
   overflow: hidden;
   height: 3.75rem;
   -webkit-box-flex: 0;
-      -ms-flex: 0 0 8.125rem;
-          flex: 0 0 8.125rem;
+      -ms-flex: 0 0 15.9375rem;
+          flex: 0 0 15.9375rem;
   z-index: 4;
 }
 
@@ -2013,10 +2013,10 @@ svg path {
 
 @media (max-width: 470px) {
   .header__logo {
-    height: 2.5rem;
+    height: 2.75rem;
     -webkit-box-flex: 0;
-        -ms-flex: 0 0 6.25rem;
-            flex: 0 0 6.25rem;
+        -ms-flex: 0 0 12.5rem;
+            flex: 0 0 12.5rem;
   }
 
   .menu__body {
